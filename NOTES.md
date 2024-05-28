@@ -15,3 +15,7 @@
 🚧 WIP  
 ❌ ERROR
 🍅 Pomodoro
+
+driver -> piloto
+navigator -> guia
+kata treino

@@ -1,6 +1,6 @@
 # 🌙 Barbara Node js Template
 
-## name-kata kata (Jaguars)
+## name-kata kata
 
 [link on CodeWars](link)
 
